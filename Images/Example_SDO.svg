@@ -1,0 +1,26 @@
+<svg xmlns = "http://www.w3.org/2000/svg" width = "1000" height = "1000">
+<g>
+<polygon points = ""
+fill = "darkred" stroke = "black"/>
+</g>
+<g>
+<circle cx = "250.000" cy = "750.000" r="2"/></g>
+<g>
+<polygon points = ""
+fill = "darksalmon" stroke = "black"/>
+</g>
+<g>
+<circle cx = "750.000" cy = "750.000" r="2"/></g>
+<g>
+<polygon points = "1000.000, 1000.000 0.000, 1000.000 0.000, 0.000 1000.000, 0.000 "
+fill = "orange" stroke = "black"/>
+</g>
+<g>
+<circle cx = "750.000" cy = "250.000" r="2"/></g>
+<g>
+<polygon points = ""
+fill = "orangered" stroke = "black"/>
+</g>
+<g>
+<circle cx = "250.000" cy = "250.000" r="2"/></g>
+</svg>
